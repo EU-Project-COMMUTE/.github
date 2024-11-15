@@ -11,3 +11,9 @@ Complementary to that, a hypothesis-driven, knowledge-based approach leverages t
 
 
 <img src="https://github.com/user-attachments/assets/2e71821c-7777-47cb-9fa0-ebdcfd82c3fa" width="25%">
+
+---
+
+* [WEB PAGE](https://www.commute-project.eu/en/about.html)
+* [Publishing Notes](https://www.commute-project.eu/en/publishing-notes.html)
+* [Data Protection](https://www.scai.fraunhofer.de/en/data_protection.html)
